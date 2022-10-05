@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.caja {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: lightblue;
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
